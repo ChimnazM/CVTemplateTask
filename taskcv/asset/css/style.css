@@ -1,0 +1,41 @@
+.box1{
+    /* border-style: dotted; */
+    box-sizing: border-box;
+    padding: 5px;
+    /* display: inline-block; */
+    width: 300px;
+    height: 1200px;
+    border-left-style: dotted;
+    padding-left: 5px;
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: top;
+}
+#headlines{
+    font-weight: bold;
+    font-size: x-large;
+}
+#Head{
+    color: blue;
+    font-size: x-large;
+}
+#Email{
+    color: blue;
+    text-decoration: underline;
+}
+*{
+    font-size: 15px;
+}
+#Morgan{
+    margin: 0;
+    font-size: 70px;
+}
+#job{
+    font-size: 30px;
+}
+.Main{
+    margin-left: 50px;
+    margin-top: 45px;
+    line-height: 20px;
+
+}
